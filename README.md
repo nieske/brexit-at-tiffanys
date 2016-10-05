@@ -7,7 +7,7 @@
 ## Installation
 * Download https://github.com/nieske/brexit-at-tiffanys/archive/master.zip.
 * Unzip it and put the resulting folder somewhere on your computer.
-* Go to Chrome and type chrome://extensions/ in your address bar.
+* Go to Chrome and type `chrome://extensions/` in your address bar.
 * Tick the check box in the upper right corner that says "Developer mode", which will make a new line with buttons appear.
 * From those new buttons, click the "Load unpacked extension..." button, browse to your Brexit at Tiffany's folder and click "Select".
 
