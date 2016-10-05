@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "Brexit at Tiffany's",
+    "description": "Make Brexit as delicious as breakfast. This Chrome extension replaces all occurrences of the word Brexit with the word breakfast. Enjoy! [This extension courtesy of Lady Geek, http://ladygeek.nl, based on an excellent tutorial from http://9to5google.com.]",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
