@@ -14,3 +14,16 @@
 Now, you're all set! Go browse http://www.bbc.com/news/politics or something. Have fun. Hope it doesn't make you too hungry.
 
 This extension is based on [this excellent tutorial](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions). The initial version is by [Lady Geek](http://ladygeek.nl). Please feel free to make your own adaptations.
+
+## More browsing tips
+
+In case you're hungry:
+* [Economists for breakfast](http://www.economistsforbrexit.co.uk/)
+* [Mail Online's breakfast news](http://www.dailymail.co.uk/news/brexit/index.html)
+* [The Guardian's breakfast section](https://www.theguardian.com/politics/eu-referendum)
+* [The Mirror's all about breakfast](http://www.mirror.co.uk/all-about/brexit)
+* [Express breakfast news](http://www.express.co.uk/latest/brexit)
+* [The Sun's breakfast topic](https://www.thesun.co.uk/topic/brexit/)
+* [The Telegraph on breakfast](http://www.telegraph.co.uk/brexit/)
+* [BBC news about breakfast](http://www.bbc.com/news/politics/uk_leaves_the_eu)
+* [The Independent on breakfast](http://www.independent.co.uk/topic/brexit)
